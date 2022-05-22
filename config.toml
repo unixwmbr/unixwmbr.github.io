@@ -1,0 +1,4 @@
+baseURL = 'https://unixwmbr.github.io/'
+languageCode = 'en-us'
+title = 'unixwmbr'
+theme = "terminal"
