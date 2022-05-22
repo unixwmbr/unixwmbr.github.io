@@ -8,3 +8,4 @@ theme = "terminal"
         centerTheme = true
         Toc = true
         TocTitle = "Tabela de Conteúdo"
+        showLastUpdated = true
