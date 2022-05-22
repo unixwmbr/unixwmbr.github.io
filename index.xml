@@ -1,9 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>unixwmbr</title><link>https://unixwmbr.github.io/</link><description>Recent content on unixwmbr</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://unixwmbr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Olá Mundo!</title><link>https://unixwmbr.github.io/posts/ola-mundo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://unixwmbr.github.io/posts/ola-mundo/</guid><description>Apresentação Somos unixwmbr, uma comunidade voltada a degustar Window Managers e propagar conhecimento sobre. Nossa missão é apoiar seu desenvolvimento e ajudar novos adeptos a esse tipo de software. Esse é um documento de apresentação em estado alfa e pode ser alterado a qualquer momento.
-Contato Telegram: https://t.me/unixwmbr</description><content>&lt;h2 id="apresentação">Apresentação&lt;/h2>
-&lt;p>Somos &lt;strong>unixwmbr&lt;/strong>, uma comunidade voltada a degustar &lt;em>Window Managers&lt;/em> e propagar conhecimento sobre.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>unixwmbr</title><link>https://unixwmbr.github.io/</link><description>Recent content on unixwmbr</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unixwmbr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Olá mundo!</title><link>https://unixwmbr.github.io/posts/ola-mundo/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>https://unixwmbr.github.io/posts/ola-mundo/</guid><description> Apresentação Somos unixwmbr, uma comunidade voltada a degustar Window Managers e propagar conhecimento sobre. Nossa missão é apoiar seu desenvolvimento e ajudar novos adeptos a esse tipo de software. Esse é um documento de apresentação em estado alfa e pode ser alterado a qualquer momento.
+Contato Telegram: https://t.me/unixwmbr</description><content>
+&lt;div id="outline-container-headline-1" class="outline-2">
+&lt;h2 id="headline-1">
+Apresentação
+&lt;/h2>
+&lt;div id="outline-text-headline-1" class="outline-text-2">
+&lt;p>
+Somos &lt;strong>unixwmbr&lt;/strong>, uma comunidade voltada a degustar &lt;em>Window Managers&lt;/em> e propagar conhecimento sobre.
 Nossa missão é apoiar seu desenvolvimento e ajudar novos adeptos a esse tipo de software.
 Esse é um documento de apresentação em estado alfa e pode ser alterado a qualquer momento.&lt;/p>
-&lt;h2 id="contato">Contato&lt;/h2>
+&lt;/div>
+&lt;/div>
+&lt;div id="outline-container-headline-2" class="outline-2">
+&lt;h2 id="headline-2">
+Contato
+&lt;/h2>
+&lt;div id="outline-text-headline-2" class="outline-text-2">
 &lt;ul>
 &lt;li>Telegram: &lt;a href="https://t.me/unixwmbr">https://t.me/unixwmbr&lt;/a>&lt;/li>
-&lt;/ul></content></item></channel></rss>
+&lt;/ul>
+&lt;/div>
+&lt;/div></content></item></channel></rss>
