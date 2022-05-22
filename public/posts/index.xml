@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on unixwmbr</title>
+    <link>https://unixwmbr.github.io/posts/</link>
+    <description>Recent content in Posts on unixwmbr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unixwmbr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Olá mundo!</title>
+      <link>https://unixwmbr.github.io/posts/ola-mundo/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://unixwmbr.github.io/posts/ola-mundo/</guid>
+      <description> Apresentação   Somos unixwmbr, uma comunidade voltada a degustar Window Managers e propagar conhecimento sobre. Nossa missão é apoiar seu desenvolvimento e ajudar novos adeptos a esse tipo de software. Esse é um documento de apresentação em estado alfa e pode ser alterado a qualquer momento.
+  Contato   Telegram: https://t.me/unixwmbr    </description>
+      <content>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Apresentação
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+Somos &lt;strong&gt;unixwmbr&lt;/strong&gt;, uma comunidade voltada a degustar &lt;em&gt;Window Managers&lt;/em&gt; e propagar conhecimento sobre.
+Nossa missão é apoiar seu desenvolvimento e ajudar novos adeptos a esse tipo de software.
+Esse é um documento de apresentação em estado alfa e pode ser alterado a qualquer momento.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Contato
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Telegram: &lt;a href=&#34;https://t.me/unixwmbr&#34;&gt;https://t.me/unixwmbr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

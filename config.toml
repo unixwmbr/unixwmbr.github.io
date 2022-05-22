@@ -4,6 +4,8 @@ title = 'unixwmbr'
 theme = "terminal"
 
 [params]
-centerTheme = true
-showLastUpdated = true
-
+        themeColor = "orange"
+        centerTheme = true
+        Toc = true
+        TocTitle = "Tabela de Conteúdo"
+        showLastUpdated = true
