@@ -1,26 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>unixwmbr</title><link>https://unixwmbr.github.io/</link><description>Recent content on unixwmbr</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unixwmbr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Olá mundo!</title><link>https://unixwmbr.github.io/posts/ola-mundo/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>https://unixwmbr.github.io/posts/ola-mundo/</guid><description> Apresentação Somos unixwmbr, uma comunidade voltada a degustar Window Managers e propagar conhecimento sobre. Nossa missão é apoiar seu desenvolvimento e ajudar novos adeptos a esse tipo de software. Esse é um documento de apresentação em estado alfa e pode ser alterado a qualquer momento.
-Contato Telegram: https://t.me/unixwmbr</description><content>
-&lt;div id="outline-container-headline-1" class="outline-2">
-&lt;h2 id="headline-1">
-Apresentação
-&lt;/h2>
-&lt;div id="outline-text-headline-1" class="outline-text-2">
-&lt;p>
-Somos &lt;strong>unixwmbr&lt;/strong>, uma comunidade voltada a degustar &lt;em>Window Managers&lt;/em> e propagar conhecimento sobre.
-Nossa missão é apoiar seu desenvolvimento e ajudar novos adeptos a esse tipo de software.
-Esse é um documento de apresentação em estado alfa e pode ser alterado a qualquer momento.&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;div id="outline-container-headline-2" class="outline-2">
-&lt;h2 id="headline-2">
-Contato
-&lt;/h2>
-&lt;div id="outline-text-headline-2" class="outline-text-2">
-&lt;ul>
-&lt;li>Telegram: &lt;a href="https://t.me/unixwmbr">https://t.me/unixwmbr&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;/div></content></item><item><title>Faça melhor uso do comando ls!</title><link>https://unixwmbr.github.io/posts/faca-melhor-uso-do-comando-ls/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://unixwmbr.github.io/posts/faca-melhor-uso-do-comando-ls/</guid><description>Apresentação Frequentemente estamos lidando com arquivos e diretórios no nosso sistema, seja movendo, copiando, removendo, listando, etc. A primeiríssima coisa que faço ao entrar num diretório é rodar ls para ver o que tem dentro, é automático!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>unixwmbr</title><link>https://unixwmbr.github.io/</link><description>Recent content on unixwmbr</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unixwmbr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Faça melhor uso do comando ls!</title><link>https://unixwmbr.github.io/posts/faca-melhor-uso-do-comando-ls/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>https://unixwmbr.github.io/posts/faca-melhor-uso-do-comando-ls/</guid><description>Apresentação Frequentemente estamos lidando com arquivos e diretórios no nosso sistema, seja movendo, copiando, removendo, listando, etc. A primeiríssima coisa que faço ao entrar num diretório é rodar ls para ver o que tem dentro, é automático!
 O problema Mas e quando estamos num diretório cheio de arquivos e subdiretórios? Logo me imagino rodando ls, tomando uma enxurrada de coisas como output e então rodando novamente mas passando o output para o less.</description><content>
 &lt;div id="outline-container-headline-1" class="outline-2">
 &lt;h2 id="headline-1">
@@ -132,7 +110,7 @@ Final
 &lt;/h2>
 &lt;div id="outline-text-headline-7" class="outline-text-2">
 &lt;p>
-Agora você está em mãos um &lt;code class="verbatim">ls&lt;/code> mais turbinado!&lt;/p>
+Agora você tem em mãos um &lt;code class="verbatim">ls&lt;/code> mais turbinado!&lt;/p>
 &lt;p>
 Assim, conteúdo que puder ser mostrado inteiramente na tela será printado normalmente:&lt;/p>
 &lt;p>
@@ -141,5 +119,27 @@ Assim, conteúdo que puder ser mostrado inteiramente na tela será printado norm
 Se não, deixará você &amp;#34;paginar&amp;#34; o output, deixando inclusive usar comandos do &lt;code class="verbatim">less&lt;/code> como busca:&lt;/p>
 &lt;p>
 &lt;a href="https://unixwmbr.github.io/static/images/faca-melhor-uso-do-comando-ls-2.png">ls-less-big-output&lt;/a>&lt;/p>
+&lt;/div>
+&lt;/div></content></item><item><title>Olá mundo!</title><link>https://unixwmbr.github.io/posts/ola-mundo/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>https://unixwmbr.github.io/posts/ola-mundo/</guid><description> Apresentação Somos unixwmbr, uma comunidade voltada a degustar Window Managers e propagar conhecimento sobre. Nossa missão é apoiar seu desenvolvimento e ajudar novos adeptos a esse tipo de software. Esse é um documento de apresentação em estado alfa e pode ser alterado a qualquer momento.
+Contato Telegram: https://t.me/unixwmbr</description><content>
+&lt;div id="outline-container-headline-1" class="outline-2">
+&lt;h2 id="headline-1">
+Apresentação
+&lt;/h2>
+&lt;div id="outline-text-headline-1" class="outline-text-2">
+&lt;p>
+Somos &lt;strong>unixwmbr&lt;/strong>, uma comunidade voltada a degustar &lt;em>Window Managers&lt;/em> e propagar conhecimento sobre.
+Nossa missão é apoiar seu desenvolvimento e ajudar novos adeptos a esse tipo de software.
+Esse é um documento de apresentação em estado alfa e pode ser alterado a qualquer momento.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div id="outline-container-headline-2" class="outline-2">
+&lt;h2 id="headline-2">
+Contato
+&lt;/h2>
+&lt;div id="outline-text-headline-2" class="outline-text-2">
+&lt;ul>
+&lt;li>Telegram: &lt;a href="https://t.me/unixwmbr">https://t.me/unixwmbr&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;/div>
 &lt;/div></content></item></channel></rss>
