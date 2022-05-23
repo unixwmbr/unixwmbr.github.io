@@ -12,7 +12,7 @@ A primeiríssima coisa que faço ao entrar num diretório é rodar =ls= para ver
 Mas e quando estamos num diretório cheio de arquivos e subdiretórios? Logo me imagino rodando =ls=, tomando uma enxurrada de coisas
 como output e então rodando novamente mas passando o output para o =less=.
 
-#+begin_src sh
+#+begin_src bash
   # Aqui tomamos um BOOM de informações
   ls -a
 
@@ -32,7 +32,7 @@ Para isso, necessitamos de algumas linhas de config para tudo funcionar lindamen
 
 Para o =ls=, criaremos uma função no rc do nosso shell:
 
-#+begin_src sh
+#+begin_src bash
   ls(){
       export COLUMNS
       command ls -AC --color=always --group-directories-first "$@" | less
@@ -52,7 +52,7 @@ Para o =ls=, criaremos uma função no rc do nosso shell:
 
 Para o =less=, iremos definir algumas variáveis no profile do nosso shell.
 
-#+begin_src sh
+#+begin_src bash
   export LESS='-F -R -J -M -W -X'
   export LESSHISTFILE=/dev/null
   export LESS_TERMCAP_mb=$'\033[1;31m'
@@ -79,8 +79,8 @@ Agora você tem em mãos um =ls= mais turbinado!
 
 Assim, conteúdo que puder ser mostrado inteiramente na tela será printado normalmente:
 
-[[file:/static/images/faca-melhor-uso-do-comando-ls-1.png][ls-less-small-output]]
+[[/images/faca-melhor-uso-do-comando-ls-1.png]]
 
 Se não, deixará você "paginar" o output, deixando inclusive usar comandos do =less= como busca:
 
-[[file:/static/images/faca-melhor-uso-do-comando-ls-2.png][ls-less-big-output]]
+[[/images/faca-melhor-uso-do-comando-ls-2.png]]
