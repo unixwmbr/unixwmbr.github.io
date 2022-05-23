@@ -4,7 +4,7 @@ title = 'unixwmbr'
 theme = "terminal"
 
 [params]
-        themeColor = "orange"
+        themeColor = "green"
         centerTheme = true
         Toc = true
         TocTitle = "Tabela de Conteúdo"
