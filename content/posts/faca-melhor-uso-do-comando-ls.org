@@ -1,6 +1,6 @@
 #+title: Faça melhor uso do comando ls!
 #+author: crzjp
-#+date: 2022-
+#+date: 2022-05-22
 
 * Apresentação
 
@@ -75,7 +75,7 @@ Para o =less=, iremos definir algumas variáveis no profile do nosso shell.
 
 * Final
 
-Agora você está em mãos um =ls= mais turbinado!
+Agora você tem em mãos um =ls= mais turbinado!
 
 Assim, conteúdo que puder ser mostrado inteiramente na tela será printado normalmente:
 
