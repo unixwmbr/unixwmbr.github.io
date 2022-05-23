@@ -1,0 +1,86 @@
+#+title: Faça melhor uso do comando ls!
+#+author: crzjp
+#+date: 2022-
+
+* Apresentação
+
+Frequentemente estamos lidando com arquivos e diretórios no nosso sistema, seja movendo, copiando, removendo, listando, etc.
+A primeiríssima coisa que faço ao entrar num diretório é rodar =ls= para ver o que tem dentro, é automático!
+
+* O problema
+
+Mas e quando estamos num diretório cheio de arquivos e subdiretórios? Logo me imagino rodando =ls=, tomando uma enxurrada de coisas
+como output e então rodando novamente mas passando o output para o =less=.
+
+#+begin_src sh
+  # Aqui tomamos um BOOM de informações
+  ls -a
+
+  # E aqui perdemos de 2 a 5 segundos de nossas
+  # vidas rodando novamente, dessa vez com o less
+  ls -a | less
+#+end_src
+
+* A solução
+
+Invés de rodar tal comando 2 vezes, por quê não rodar =ls= + =less= *sempre*?
+Para isso, necessitamos de algumas linhas de config para tudo funcionar lindamente.
+
+* Config
+
+** ls
+
+Para o =ls=, criaremos uma função no rc do nosso shell:
+
+#+begin_src sh
+  ls(){
+      export COLUMNS
+      command ls -AC --color=always --group-directories-first "$@" | less
+  }
+#+end_src
+
+- =export COLUMNS=: "lembre" ao =ls= e ao =less= o número de colunas, assim aproveitando melhor o espaçamento na janela do terminal.
+- =command=: garantindo que não entre em conflito com algum alias ou coisa do tipo.
+- =-A=: mostre tudo, exceto =.= e =..=.
+- =-C=: liste em colunas verticais.
+- =--color=always=: garantindo que sempre mostre as cores.
+- =--group-directories-first=: mostre primeiro os diretórios.
+- ="$@"=: aqui é onde vai ser o diretorio a ser passado, podendo ser mais de um (ou nenhum para o diretorio atual).
+- =| less=: passando o output para o =less=.
+
+** less
+
+Para o =less=, iremos definir algumas variáveis no profile do nosso shell.
+
+#+begin_src sh
+  export LESS='-F -R -J -M -W -X'
+  export LESSHISTFILE=/dev/null
+  export LESS_TERMCAP_mb=$'\033[1;31m'
+  export LESS_TERMCAP_md=$'\033[1;36m'
+  export LESS_TERMCAP_me=$'\033[0m'
+  export LESS_TERMCAP_so=$'\033[01;7;34m'
+  export LESS_TERMCAP_se=$'\033[0m'
+  export LESS_TERMCAP_us=$'\033[1;32m'
+  export LESS_TERMCAP_ue=$'\033[0m'
+#+end_src
+
+- =export LESS=: alguns argumentos, cujo são:
+  - =-F=: se der para "printar" todo o conteúdo na tela, printe e saia.
+  - =-R=: pegue as cores das saídas de comandos, como =ls=.
+  - =-J=: melhor barra de status.
+  - =-M=: barra de status mais "verbosa".
+  - =-X=: não limpe a tela ao sair.
+- =export LESSHISTFILE=: onde salvar o histórico, =/dev/null/= ou =-= para sem histórico.
+- =export LESS_TERMCAP_*=: algumas cores para melhor legibilidade.
+
+* Final
+
+Agora você está em mãos um =ls= mais turbinado!
+
+Assim, conteúdo que puder ser mostrado inteiramente na tela será printado normalmente:
+
+[[file:/static/images/faca-melhor-uso-do-comando-ls-1.png][ls-less-small-output]]
+
+Se não, deixará você "paginar" o output, deixando inclusive usar comandos do =less= como busca:
+
+[[file:/static/images/faca-melhor-uso-do-comando-ls-2.png][ls-less-big-output]]
