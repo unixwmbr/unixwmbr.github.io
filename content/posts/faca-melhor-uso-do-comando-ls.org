@@ -79,8 +79,8 @@ Agora você tem em mãos um =ls= mais turbinado!
 
 Assim, conteúdo que puder ser mostrado inteiramente na tela será printado normalmente:
 
-[[/images/faca-melhor-uso-do-comando-ls-1.png]]
+[[/images/faca-melhor-uso-do-comando-ls/faca-melhor-uso-do-comando-ls-1.png]]
 
 Se não, deixará você "paginar" o output, deixando inclusive usar comandos do =less= como busca:
 
-[[/images/faca-melhor-uso-do-comando-ls-2.png]]
+[[/images/faca-melhor-uso-do-comando-ls/faca-melhor-uso-do-comando-ls-2.png]]
