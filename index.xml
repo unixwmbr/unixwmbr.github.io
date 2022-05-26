@@ -1,4 +1,98 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>unixwmbr</title><link>https://unixwmbr.github.io/</link><description>Recent content on unixwmbr</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unixwmbr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Faça melhor uso do comando ls!</title><link>https://unixwmbr.github.io/posts/faca-melhor-uso-do-comando-ls/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>https://unixwmbr.github.io/posts/faca-melhor-uso-do-comando-ls/</guid><description>Apresentação Frequentemente estamos lidando com arquivos e diretórios no nosso sistema, seja movendo, copiando, removendo, listando, etc. A primeiríssima coisa que faço ao entrar num diretório é rodar ls para ver o que tem dentro, é automático!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>unixwmbr</title><link>https://unixwmbr.github.io/</link><description>Recent content on unixwmbr</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unixwmbr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Compilado de rices da comunidade</title><link>https://unixwmbr.github.io/posts/compilado-de-rices-da-comunidade/</link><pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate><guid>https://unixwmbr.github.io/posts/compilado-de-rices-da-comunidade/</guid><description>Apresentação Aglomerado de rices da comunidade unixwmbr, aqui você verá do que a galera é capaz de fazer com seus desktops. Os prints são mandados pelos membros majoritariamente no Telegram, mas podem ser mandados também em outras plataformas como Matrix e/ou IRC.
+Alguns membros mudam constantemente suas configurações, portanto haverá vários prints pertencentes a um único membro. Os prints não estão necessariamente ordenados por data nem podem representar o estado atual do desktop do dono.</description><content>
+&lt;div id="outline-container-headline-1" class="outline-2">
+&lt;h2 id="headline-1">
+Apresentação
+&lt;/h2>
+&lt;div id="outline-text-headline-1" class="outline-text-2">
+&lt;p>
+Aglomerado de rices da comunidade &lt;strong>unixwmbr&lt;/strong>, aqui você verá do que a galera é capaz de fazer com seus desktops. Os prints são mandados pelos
+membros majoritariamente no Telegram, mas podem ser mandados também em outras plataformas como Matrix e/ou IRC.&lt;/p>
+&lt;p>
+Alguns membros mudam constantemente suas configurações, portanto haverá vários prints pertencentes a um único membro.
+Os prints não estão necessariamente ordenados por data nem podem representar o estado atual do desktop do dono.&lt;/p>
+&lt;p>
+Os prints &lt;strong>não&lt;/strong> apontam para suas respectivas configs. No entando, temos um &lt;a href="github.com/crzjp/unixwmbr/unixwmbr">repositório&lt;/a> com menos prints com link direto para suas configs.&lt;/p>
+&lt;p>
+Esse artigo cresce à medida que os membros postam aqui, portanto lhe convido a revisita-lo periodicamente.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div id="outline-container-headline-2" class="outline-2">
+&lt;h2 id="headline-2">
+Contato
+&lt;/h2>
+&lt;div id="outline-text-headline-2" class="outline-text-2">
+&lt;p>
+Deseja fazer parte do time? Entre para a nossa comunidade pelos links abaixo!&lt;/p>
+&lt;ul>
+&lt;li>Telegram: &lt;a href="https://t.me/unixwmbr">https://t.me/unixwmbr&lt;/a>&lt;/li>
+&lt;li>Matrix: #unixwmbr-main:matrix.org&lt;/li>
+&lt;li>IRC (Libera) - #unixwmbr&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;div id="outline-container-headline-3" class="outline-2">
+&lt;h2 id="headline-3">
+Prints
+&lt;/h2>
+&lt;div id="outline-text-headline-3" class="outline-text-2">
+&lt;div id="outline-container-headline-4" class="outline-3">
+&lt;h3 id="headline-4">
+2bwm
+&lt;/h3>
+&lt;div id="outline-text-headline-4" class="outline-text-3">
+&lt;p>
+&lt;img src="https://unixwmbr.github.io/images/compilado-de-rices-da-comunidade/2bwm/2021-05-31.png" alt="/images/compilado-de-rices-da-comunidade/2bwm/2021-05-31.png" title="/images/compilado-de-rices-da-comunidade/2bwm/2021-05-31.png" />&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div id="outline-container-headline-5" class="outline-3">
+&lt;h3 id="headline-5">
+bspwm
+&lt;/h3>
+&lt;div id="outline-text-headline-5" class="outline-text-3">
+&lt;p>
+&lt;img src="https://unixwmbr.github.io/images/compilado-de-rices-da-comunidade/bspwm/2021-02-28.png" alt="/images/compilado-de-rices-da-comunidade/bspwm/2021-02-28.png" title="/images/compilado-de-rices-da-comunidade/bspwm/2021-02-28.png" />
+&lt;img src="https://unixwmbr.github.io/images/compilado-de-rices-da-comunidade/bspwm/2021-04-03.png" alt="/images/compilado-de-rices-da-comunidade/bspwm/2021-04-03.png" title="/images/compilado-de-rices-da-comunidade/bspwm/2021-04-03.png" />&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div id="outline-container-headline-6" class="outline-3">
+&lt;h3 id="headline-6">
+dwm
+&lt;/h3>
+&lt;div id="outline-text-headline-6" class="outline-text-3">
+&lt;p>
+&lt;img src="https://unixwmbr.github.io/images/compilado-de-rices-da-comunidade/dwm/2021-03-17.png" alt="/images/compilado-de-rices-da-comunidade/dwm/2021-03-17.png" title="/images/compilado-de-rices-da-comunidade/dwm/2021-03-17.png" />&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div id="outline-container-headline-7" class="outline-3">
+&lt;h3 id="headline-7">
+fvwm
+&lt;/h3>
+&lt;div id="outline-text-headline-7" class="outline-text-3">
+&lt;p>
+&lt;img src="https://unixwmbr.github.io/images/compilado-de-rices-da-comunidade/fvwm/2021-03-03.png" alt="/images/compilado-de-rices-da-comunidade/fvwm/2021-03-03.png" title="/images/compilado-de-rices-da-comunidade/fvwm/2021-03-03.png" />&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div id="outline-container-headline-8" class="outline-3">
+&lt;h3 id="headline-8">
+herbstluftwm
+&lt;/h3>
+&lt;div id="outline-text-headline-8" class="outline-text-3">
+&lt;p>
+&lt;img src="https://unixwmbr.github.io/images/compilado-de-rices-da-comunidade/herbstluftwm/2021-04-02.png" alt="/images/compilado-de-rices-da-comunidade/herbstluftwm/2021-04-02.png" title="/images/compilado-de-rices-da-comunidade/herbstluftwm/2021-04-02.png" />&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div id="outline-container-headline-9" class="outline-3">
+&lt;h3 id="headline-9">
+i3/i3-gaps
+&lt;/h3>
+&lt;div id="outline-text-headline-9" class="outline-text-3">
+&lt;p>
+&lt;img src="https://unixwmbr.github.io/images/compilado-de-rices-da-comunidade/i3/2021-04-02.png" alt="/images/compilado-de-rices-da-comunidade/i3/2021-04-02.png" title="/images/compilado-de-rices-da-comunidade/i3/2021-04-02.png" />&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div></content></item><item><title>Faça melhor uso do comando ls!</title><link>https://unixwmbr.github.io/posts/faca-melhor-uso-do-comando-ls/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>https://unixwmbr.github.io/posts/faca-melhor-uso-do-comando-ls/</guid><description>Apresentação Frequentemente estamos lidando com arquivos e diretórios no nosso sistema, seja movendo, copiando, removendo, listando, etc. A primeiríssima coisa que faço ao entrar num diretório é rodar ls para ver o que tem dentro, é automático!
 O problema Mas e quando estamos num diretório cheio de arquivos e subdiretórios? Logo me imagino rodando ls, tomando uma enxurrada de coisas como output e então rodando novamente mas passando o output para o less.</description><content>
 &lt;div id="outline-container-headline-1" class="outline-2">
 &lt;h2 id="headline-1">
@@ -114,11 +208,11 @@ Agora você tem em mãos um &lt;code class="verbatim">ls&lt;/code> mais turbinad
 &lt;p>
 Assim, conteúdo que puder ser mostrado inteiramente na tela será printado normalmente:&lt;/p>
 &lt;p>
-&lt;img src="https://unixwmbr.github.io/images/faca-melhor-uso-do-comando-ls-1.png" alt="/images/faca-melhor-uso-do-comando-ls-1.png" title="/images/faca-melhor-uso-do-comando-ls-1.png" />&lt;/p>
+&lt;img src="https://unixwmbr.github.io/images/faca-melhor-uso-do-comando-ls/faca-melhor-uso-do-comando-ls-1.png" alt="/images/faca-melhor-uso-do-comando-ls/faca-melhor-uso-do-comando-ls-1.png" title="/images/faca-melhor-uso-do-comando-ls/faca-melhor-uso-do-comando-ls-1.png" />&lt;/p>
 &lt;p>
 Se não, deixará você &amp;#34;paginar&amp;#34; o output, deixando inclusive usar comandos do &lt;code class="verbatim">less&lt;/code> como busca:&lt;/p>
 &lt;p>
-&lt;img src="https://unixwmbr.github.io/images/faca-melhor-uso-do-comando-ls-2.png" alt="/images/faca-melhor-uso-do-comando-ls-2.png" title="/images/faca-melhor-uso-do-comando-ls-2.png" />&lt;/p>
+&lt;img src="https://unixwmbr.github.io/images/faca-melhor-uso-do-comando-ls/faca-melhor-uso-do-comando-ls-2.png" alt="/images/faca-melhor-uso-do-comando-ls/faca-melhor-uso-do-comando-ls-2.png" title="/images/faca-melhor-uso-do-comando-ls/faca-melhor-uso-do-comando-ls-2.png" />&lt;/p>
 &lt;/div>
 &lt;/div></content></item><item><title>Olá mundo!</title><link>https://unixwmbr.github.io/posts/ola-mundo/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>https://unixwmbr.github.io/posts/ola-mundo/</guid><description> Apresentação Somos unixwmbr, uma comunidade voltada a degustar Window Managers e propagar conhecimento sobre. Nossa missão é apoiar seu desenvolvimento e ajudar novos adeptos a esse tipo de software. Esse é um documento de apresentação em estado alfa e pode ser alterado a qualquer momento.
 Contato Telegram: https://t.me/unixwmbr</description><content>
