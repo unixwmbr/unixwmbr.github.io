@@ -31,6 +31,7 @@ Deseja fazer parte do time? Entre para a nossa comunidade pelos links abaixo!
 ** bspwm
 
 [[/images/compilado-de-rices-da-comunidade/bspwm/2021-02-28.png]]
+
 [[/images/compilado-de-rices-da-comunidade/bspwm/2021-04-03.png]]
 
 ** dwm
