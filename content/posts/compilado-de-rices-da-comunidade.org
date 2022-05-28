@@ -34,11 +34,13 @@ Deseja fazer parte do time? Entre para a nossa comunidade pelos links abaixo!
 
 [[/images/compilado-de-rices-da-comunidade/bspwm/2021-04-03.png]]
 
+[[/images/compilado-de-rices-da-comunidade/bspwm/2022-05-28.png]]
+
 ** dwm
 
 [[/images/compilado-de-rices-da-comunidade/dwm/2021-03-17.png]]
 
-[[/images/compilado-de-rices-da-comunidade/dwm/image_2022-02-15_20-30-02.png]]
+[[/images/compilado-de-rices-da-comunidade/dwm/2022-02-15.png]]
 
 ** fvwm
 
@@ -51,3 +53,7 @@ Deseja fazer parte do time? Entre para a nossa comunidade pelos links abaixo!
 ** i3/i3-gaps
 
 [[/images/compilado-de-rices-da-comunidade/i3/2021-04-02.png]]
+
+** stumpwm
+
+[[/images/compilado-de-rices-da-comunidade/stumpwm/2022-05-24.png]]
